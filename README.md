@@ -1,2 +1,2 @@
 # Game-Kuis
-Untuk Penelitian Ilmiah
+Game simple untuk belajar pertama kali menggunakan unity
